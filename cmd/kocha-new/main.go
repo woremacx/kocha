@@ -8,7 +8,7 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/naoina/kocha/util"
+	"github.com/woremacx/kocha/util"
 )
 
 type newCommand struct {

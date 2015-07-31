@@ -7,7 +7,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/naoina/kocha/util"
+	"github.com/woremacx/kocha/util"
 )
 
 // Entry represents a log entry.

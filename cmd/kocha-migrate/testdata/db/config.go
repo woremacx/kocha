@@ -1,6 +1,6 @@
 package db
 
-import "github.com/naoina/kocha"
+import "github.com/woremacx/kocha"
 
 var DatabaseMap = kocha.DatabaseMap{
 	"default": {

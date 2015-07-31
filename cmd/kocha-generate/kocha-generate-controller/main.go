@@ -15,8 +15,8 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/naoina/kocha"
-	"github.com/naoina/kocha/util"
+	"github.com/woremacx/kocha"
+	"github.com/woremacx/kocha/util"
 )
 
 var (

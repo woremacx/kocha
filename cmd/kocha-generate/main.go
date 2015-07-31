@@ -9,7 +9,7 @@ import (
 
 	"go/build"
 
-	"github.com/naoina/kocha/util"
+	"github.com/woremacx/kocha/util"
 )
 
 const (

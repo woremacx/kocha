@@ -7,7 +7,7 @@ import (
 	"testing"
 	"testing/quick"
 
-	"github.com/naoina/kocha"
+	"github.com/woremacx/kocha"
 )
 
 func TestSession(t *testing.T) {

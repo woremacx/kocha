@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/naoina/kocha"
+	"github.com/woremacx/kocha"
 )
 
 func TestResponse_Cookies(t *testing.T) {

@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/naoina/kocha"
+	"github.com/woremacx/kocha"
 )
 
 func TestFlash(t *testing.T) {

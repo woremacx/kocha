@@ -6,7 +6,7 @@ import (
 	"path/filepath"
 	"runtime"
 
-	"github.com/naoina/kocha/util"
+	"github.com/woremacx/kocha/util"
 )
 
 type generateUnitCommand struct {

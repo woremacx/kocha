@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"runtime"
 
-	"github.com/naoina/kocha/util"
+	"github.com/woremacx/kocha/util"
 	"github.com/naoina/miyabi"
 	"gopkg.in/fsnotify.v1"
 )

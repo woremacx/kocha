@@ -3,7 +3,7 @@ package main
 import (
 	"testappname/config"
 
-	"github.com/naoina/kocha"
+	"github.com/woremacx/kocha"
 )
 
 func main() {

@@ -10,8 +10,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/naoina/kocha"
-	"github.com/naoina/kocha/log"
+	"github.com/woremacx/kocha"
+	"github.com/woremacx/kocha/log"
 )
 
 type testLogFormatter struct {

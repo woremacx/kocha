@@ -1,6 +1,6 @@
 package memory
 
-import "github.com/naoina/kocha/event"
+import "github.com/woremacx/kocha/event"
 
 // EventQueue implements the Queue interface.
 // This doesn't require the external storages such as Redis.

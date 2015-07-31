@@ -7,8 +7,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/naoina/kocha/log"
-	"github.com/naoina/kocha/util"
+	"github.com/woremacx/kocha/log"
+	"github.com/woremacx/kocha/util"
 )
 
 func TestLogger_Debug(t *testing.T) {

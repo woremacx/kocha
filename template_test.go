@@ -12,7 +12,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/naoina/kocha"
+	"github.com/woremacx/kocha"
 )
 
 func TestTemplate_FuncMap_in_withInvalidType(t *testing.T) {

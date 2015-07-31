@@ -3,7 +3,7 @@ package kocha
 import (
 	"io"
 
-	"github.com/naoina/kocha/log"
+	"github.com/woremacx/kocha/log"
 )
 
 // LoggerConfig represents the configuration of the logger.

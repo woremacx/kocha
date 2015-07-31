@@ -19,11 +19,11 @@ A convenient web application framework for [Go](http://golang.org/)
 
 1. install the framework:
 
-        go get -u github.com/naoina/kocha
+        go get -u github.com/woremacx/kocha
 
     And command-line tool
 
-        go get -u github.com/naoina/kocha/cmd/...
+        go get -u github.com/woremacx/kocha/cmd/...
 
 2. Create a new application:
 

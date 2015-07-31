@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"strconv"
 
-	"github.com/naoina/kocha/event"
+	"github.com/woremacx/kocha/event"
 )
 
 // EventHandlerMap represents a map of event handlers.

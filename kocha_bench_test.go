@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/naoina/kocha"
+	"github.com/woremacx/kocha"
 )
 
 type nullResponseWriter struct {

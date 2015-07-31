@@ -7,8 +7,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/naoina/kocha/log"
-	"github.com/naoina/kocha/util"
+	"github.com/woremacx/kocha/log"
+	"github.com/woremacx/kocha/util"
 	"github.com/ugorji/go/codec"
 )
 

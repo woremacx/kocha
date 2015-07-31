@@ -6,7 +6,7 @@ import (
 	"runtime"
 	"testing"
 
-	"github.com/naoina/kocha/util"
+	"github.com/woremacx/kocha/util"
 )
 
 func TestGenmaiModelType_FieldTypeMap(t *testing.T) {

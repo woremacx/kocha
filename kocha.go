@@ -10,7 +10,7 @@ import (
 	"sync"
 
 	"github.com/joho/godotenv"
-	"github.com/naoina/kocha/log"
+	"github.com/woremacx/kocha/log"
 	"github.com/naoina/miyabi"
 )
 

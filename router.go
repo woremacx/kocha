@@ -7,7 +7,7 @@ import (
 	"strings"
 
 	"github.com/naoina/denco"
-	"github.com/naoina/kocha/util"
+	"github.com/woremacx/kocha/util"
 )
 
 // The routing table.

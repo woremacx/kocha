@@ -13,8 +13,8 @@ import (
 	"text/template"
 	"time"
 
-	"github.com/naoina/kocha"
-	"github.com/naoina/kocha/util"
+	"github.com/woremacx/kocha"
+	"github.com/woremacx/kocha/util"
 )
 
 type buildCommand struct {

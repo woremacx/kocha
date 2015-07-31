@@ -3,7 +3,7 @@ package config
 import (
 	"testappname/app/controller"
 
-	"github.com/naoina/kocha"
+	"github.com/woremacx/kocha"
 )
 
 type RouteTable kocha.RouteTable

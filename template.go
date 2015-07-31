@@ -11,7 +11,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/naoina/kocha/util"
+	"github.com/woremacx/kocha/util"
 )
 
 const (

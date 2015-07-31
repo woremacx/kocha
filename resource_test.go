@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/naoina/kocha"
+	"github.com/woremacx/kocha"
 )
 
 func TestResourceSet_Add(t *testing.T) {

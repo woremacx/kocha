@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/naoina/kocha/event"
+	"github.com/woremacx/kocha/event"
 )
 
 func TestEventQueue(t *testing.T) {

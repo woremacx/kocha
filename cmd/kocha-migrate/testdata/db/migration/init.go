@@ -3,7 +3,7 @@ package migration
 import (
 	"fmt"
 
-	"github.com/naoina/kocha"
+	"github.com/woremacx/kocha"
 )
 
 type Migration struct{}

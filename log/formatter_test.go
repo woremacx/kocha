@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/naoina/kocha/log"
+	"github.com/woremacx/kocha/log"
 )
 
 func TestRawFormatter_Format(t *testing.T) {

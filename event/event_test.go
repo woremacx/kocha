@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/naoina/kocha/event"
+	"github.com/woremacx/kocha/event"
 )
 
 const (

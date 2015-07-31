@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/naoina/kocha"
+	"github.com/woremacx/kocha"
 )
 
 func TestRouter_Reverse(t *testing.T) {
